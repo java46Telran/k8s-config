@@ -16,7 +16,7 @@ spec:
         image: yuragranovsky/config-server
         resources:
           requests:
-            memory: "150Mi"
+            memory: "200Mi"
             cpu: "500m"
           limits:
             memory: "200Mi"
